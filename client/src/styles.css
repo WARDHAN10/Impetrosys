@@ -1,0 +1,20 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: rgb(33, 37, 41);
+}
+
+.alert {
+  width: 60%;
+  float: right;
+}
+/* footer {
+position: absolute;
+bottom: 0px;
+right: 0px;
+left: 0px;
+} */
